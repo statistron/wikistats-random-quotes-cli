@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Wikistats random quotes CLI allows you to read random statistical quotes from the Simple English version of Wikipedia.  It is based on the free and open source [Wikistats API](https://github.com/statistron/wikistatsAPI)
+The Wikistats random quotes CLI allows you to read random statistical quotes from the Simple English version of Wikipedia *right in your terminal*.  It is based on the free and open source [Wikistats API](https://github.com/statistron/wikistatsAPI)
 
 
 ## Installation
@@ -27,7 +27,8 @@ npm install -g wikistats-random-quotes-cli
 
 ## Examples
 
-### $ wikistats
+
+$ wikistats
 
 • More than 99.7% of the seasons damage was due to Harvey, Irma, and Maria. - 2017 Atlantic Hurricane Season | Wikipedia
 
@@ -41,7 +42,7 @@ npm install -g wikistats-random-quotes-cli
 
             
 
-### $ wikistats --number 1
+$ wikistats --number 1
 
 • SEO has become an important part of marketing campaigns run by businesses to find customers online because 65% of the people who search for something dont look beyond the 5th result of the search engines results page. - Search Engine Optimization | Wikipedia
 
