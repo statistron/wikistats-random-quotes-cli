@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Wikistats random quotes CLI allows you to read random statistical quotes from the Simple English version of Wikipedia *right in your terminal*.  It is based on the free and open source [Wikistats API](https://github.com/statistron/wikistatsAPI)
+The Wikistats random quotes CLI allows you to read random statistical quotes from the Simple English version of Wikipedia <strong>right in your terminal</strong>.  It is based on the free and open source [Wikistats API](https://github.com/statistron/wikistatsAPI)
 
 
 ## Installation
@@ -28,7 +28,8 @@ npm install -g wikistats-random-quotes-cli
 ## Examples
 
 
-$ wikistats
+<b> $ wikistats </b>
+
 
 • More than 99.7% of the seasons damage was due to Harvey, Irma, and Maria. - 2017 Atlantic Hurricane Season | Wikipedia
 
@@ -40,9 +41,9 @@ $ wikistats
 
 • Milk fat makes up about 0.55–6% of the yogurt; added in quantities inversely proportional to the amount of milk solids, it lends richness to the yogurt. - Frozen Yogurt | Wikipedia
 
-            
+<br>            
 
-$ wikistats --number 1
+<b> $ wikistats --number 1 </b>
 
 • SEO has become an important part of marketing campaigns run by businesses to find customers online because 65% of the people who search for something dont look beyond the 5th result of the search engines results page. - Search Engine Optimization | Wikipedia
 
