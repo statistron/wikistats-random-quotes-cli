@@ -1,0 +1,38 @@
+{
+  "name": "wikistats-random-quotes-cli",
+  "version": "1.0.0",
+  "description": "Get a random statistic from Wikipedia (Simple English) in your terminal!",
+  "type": "module",
+  "keywords": [
+    "wikipedia",
+    "random quotes",
+    "statistics",
+    "quotes",
+    "api",
+    "cli",
+    "cli-app",
+    "command"
+  ],
+  "author": "statistron",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/statistron/wikistats-random-quotes-cli"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/statistron/wikistats-random-quotes-cli/issues"
+  },
+  "homepage": "https://github.com/statistron/wikistats-random-quotes-cli",
+  "preferGlobal": true,
+  "bin": {
+    "wikistats": "cli.js"
+  },
+  "scripts": {},
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^4.1.2",
+    "lodash": "^4.17.21",
+    "meow": "^9.0.0",
+    "update-notifier": "^5.1.0"
+  }
+}
