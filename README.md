@@ -11,6 +11,12 @@ The Wikistats random quotes CLI allows you to read random statistical quotes fro
 npm install -g wikistats-random-quotes-cli
 ```
 
+<br>
+
+Make sure to <strong> install with the -g flag </strong> to allow use as a command line application.
+
+<br>
+
 ## Usage
 
 ```
