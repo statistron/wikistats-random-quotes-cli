@@ -49,7 +49,7 @@ quote({ input: cli.input[0], flags: cli.flags })
     .then(result => {
         result.forEach(item => {
             console.log(
-                chalk.cyan(item.quote) + chalk.blueBright(' - ' + item.source)
+                  '• '+ chalk.white(item.quote) + chalk.dim.white(' - ' + item.source) +'\n'
             );
         });
         
