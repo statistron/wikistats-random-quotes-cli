@@ -5,9 +5,7 @@ import meow from 'meow';
 import chalk from 'chalk';
 import updateNotifier from 'update-notifier';
 
-//import pkg from './package.json' assert { type: "json" };
 
-//https://www.stefanjudis.com/snippets/how-to-import-json-files-in-es-modules-node-js/
 import { readFile } from 'fs/promises';
 const pkg = JSON.parse(
   await readFile(
