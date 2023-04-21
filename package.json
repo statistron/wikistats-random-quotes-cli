@@ -1,6 +1,6 @@
 {
   "name": "wikistats-random-quotes-cli",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Get a random statistic from Wikipedia (Simple English) in your terminal!",
   "type": "module",
   "keywords": [
